@@ -7,7 +7,7 @@
 
 # 🔗 Links
 
-> [Add Astral](https://discord.com/oauth2/authorize?client_id=1233219148772016128&permissions=8&scope=bot) [Support Server](https://discord.gg/nZhfgcHuMH)
+> [Add Astral](https://discord.com/oauth2/authorize?client_id=1236793738211233863&permissions=8&scope=bot) [Support Server](https://discord.gg/nZhfgcHuMH)
 
 # 💬 Note
 
