@@ -19,6 +19,6 @@
 > Join The Support Server Above For Any Questions And Enquiries
 > Leave A ⭐ If You Found This Helpfull.
 
-
+[![Discord Bots](https://top.gg/api/widget/upvotes/1236793738211233863.svg)(https://top.gg/bot/1236793738211233863)
 
 *Astral Developments - Last Updated 7/5/2024 - 2024 - 2024 ©*
